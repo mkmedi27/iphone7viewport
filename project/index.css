@@ -1,0 +1,7 @@
+.nav-bar{height:55px;background-color: #ff900f;}
+.detail{height: 150px;margin:10px;background-color: #232f3e; }
+.goods{height:650px;display:flex;background-color: #e8eff0;;}
+.products{height: 190px;width: 220px;margin:10px;margin-left: 50px;background-color: white;border-radius: 5px;}
+.description{padding: 10px;padding-left: 130px;font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+.products img{width:170px;height: 170px;margin-left:20px}
+.foot{height: 500px ;background-color:#131a22;margin-top: 10px;}

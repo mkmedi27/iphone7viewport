@@ -1,0 +1,45 @@
+@media screen and (max-width: 415px) {
+  .nav-bar {
+    background-color: tomato;
+  }
+  .detail {
+    height: 150px;
+    margin: 10px;
+    background-color: #232f3e;
+  }
+  .detail {
+    height: 50px;
+    margin: 1px;
+    background-color: #232f3e;
+  }
+  .goods {
+    height: 400px;
+    display: flex;
+    background-color: whitesmoke;
+  }
+  .description {
+    padding: 1px;
+    padding-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .products {
+    height: 90px;
+    width: 110px;
+    margin: 5px;
+    margin-left: 5px;
+    background-color: white;
+    border-radius: 1px;
+  }
+
+  .products img {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    margin-left: 20px;
+  }
+  .foot {
+    height: 300px;
+    background-color: #131a22;
+    margin-top: 10px;
+  }
+}
